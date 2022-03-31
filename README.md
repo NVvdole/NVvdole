@@ -13,3 +13,5 @@ Company: NVIDIA Corporation
 Job Title: Service Planning Analyst
 
 Favorite Programming Languages: R; Python; SQL; C++; C#; Java
+
+Other Skills: Linux
