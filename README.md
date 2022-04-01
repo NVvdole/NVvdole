@@ -8,7 +8,7 @@ Gender: F
 
 Education: B.S. in Applied Mathematics; M.S. in Statistics (in progress)
 
-Alma Mater: Texas State University (undergraduate)
+Alma Mater: Texas State University (undergraduate); Texas A&M University (graduate)
 
 Company: NVIDIA Corporation
 
